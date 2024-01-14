@@ -17,8 +17,8 @@ Enhanced with colored text outputs for better readability and user experience.
 Clone the Repo:
 git clone https://github.com/blvk3at/CyberFort.git
 # Install the Required Python Packages:
-### pip install requests
-### pip install beautifulsoup4
+### pip install -r requirements.txt
+
 # Usage
 ### Run the script in your terminal or command prompt. 
 ### Enter the URL you want to check.
